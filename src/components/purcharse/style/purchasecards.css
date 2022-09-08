@@ -1,0 +1,19 @@
+.card-purcharse {
+	background-color: #fff;
+	width: 100%;
+	max-width: 300px;
+	padding: 25px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	box-shadow: 0 0 10px #0005;
+	max-height: 400px;
+	overflow-y: auto;
+}
+.card-purcharse__date {
+	text-align: center;
+	padding: 10px;
+	color: var(--fontcolor);
+}

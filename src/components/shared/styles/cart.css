@@ -1,0 +1,18 @@
+.cart {
+	width: min(90%, 1200px);
+	margin: 0 auto;
+	margin-top: 70px;
+	height: 100vh;
+	overflow: hidden;
+}
+
+.cart__item-header1 {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+	padding-top: 20px;
+	overflow: hidden;
+	color: white;
+	font-size: 15px;
+	font-weight: 900;
+}
